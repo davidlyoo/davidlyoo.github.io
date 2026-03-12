@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:jlogkim.github.io)",
-      "Bash(curl -s https://jlogkim.github.io/)",
-      "Bash(curl -s https://jlogkim.github.io/stylesheet.css)"
-    ]
-  }
-}
